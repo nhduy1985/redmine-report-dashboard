@@ -1,0 +1,22 @@
+{
+  "name": "redmine-report-dashboard",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "1.2.15",
+    "json3": "~3.2.6",
+    "es5-shim": "~2.1.0",
+    "jquery": "~2.1.0",
+    "jquery-ui": "~1.10.4",
+    "bootstrap": "~3.0.3",
+    "angular-resource": "1.2.15",
+    "angular-cookies": "1.2.15",
+    "angular-sanitize": "1.2.15",
+    "angular-route": "1.2.15",
+    "theme-adminlte":"https://github.com/almasaeed2010/AdminLTE.git",
+    "angular-bilal-chart":"https://github.com/nhduy1985/ChartAngular.git#feature/bower_support"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.15",
+    "angular-scenario": "1.2.15"
+  }
+}
